@@ -265,7 +265,7 @@ export default Vue.extend({
 			maintainerName: null,
 			maintainerEmail: null,
 			ToSUrl: null,
-			repositoryUrl: "https://github.com/syuilo/misskey",
+			repositoryUrl: "https://github.com/Lastorder-DC/v11-misskey",
 			feedbackUrl: null,
 			disableRegistration: false,
 			disableLocalTimeline: false,
